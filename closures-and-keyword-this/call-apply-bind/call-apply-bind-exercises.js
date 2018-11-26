@@ -1,3 +1,4 @@
+// adding my own comments
 function arrayFrom(arrayLikeObject){
     return [].slice.call(arrayLikeObject)
 }
